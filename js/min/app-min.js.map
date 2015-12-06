@@ -1,1 +1,1 @@
-{"version":3,"sources":["../app.js"],"names":["$","document","foundation"],"mappings":"AAAAA,EAAEC,UAAUC","file":"app-min.js"}
+{"version":3,"sources":["../app.js"],"names":["$","document","foundation","headroom","offset","tolerance","classes","pinned","unpinned"],"mappings":"AAAAA,EAAEC,UAAUC,aAEZF,EAAE,OAAOG,UACPC,OAAU,GACVC,UAAa,EACbC,SACEC,OAAU,SACVC,SAAY,aAKhBR,EAAE,WAAWG,SAAS","file":"app-min.js"}

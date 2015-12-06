@@ -1,0 +1,16 @@
+// Navigation Styles
+
+#main-nav {
+    position: fixed;
+    z-index: 10;
+    right: 0;
+    left: 0;
+    top: 0;
+	.top-bar {
+		.top-bar-left {
+			img {
+				width: 200px;
+			}
+		}
+	}
+}

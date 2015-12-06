@@ -3861,3 +3861,12 @@ table.hover tr:nth-of-type(even):hover {
 
 .long-delay {
   animation-delay: 700ms !important; }
+
+#main-nav {
+  position: fixed;
+  z-index: 10;
+  right: 0;
+  left: 0;
+  top: 0; }
+  #main-nav .top-bar .top-bar-left img {
+    width: 200px; }
